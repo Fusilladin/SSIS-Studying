@@ -1,0 +1,1 @@
+This is my text inside the Flat file using a script component
